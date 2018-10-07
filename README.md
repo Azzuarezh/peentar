@@ -23,7 +23,7 @@ $ cd peentar/
 $ npm install
 $ npm start
 ```
-to see the running port, you can see the console in the command.
+to see the running port, you can see the logs in the console.
 
 ## Folder Structure
 
@@ -62,5 +62,5 @@ you can run the project with minified option. For environments using [Node](http
 npm install -g serve
 serve -s build
 ```
-to see the running port, you can see the console in the command.
+to see the running port, you can see the logs in the console.
 Note that ***serve -s build***  is command to running static server and the app instance is ***"build"***
