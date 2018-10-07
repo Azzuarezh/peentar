@@ -29,8 +29,7 @@ the project should look like this:
 
 ```
 peentar/
-  README.md
-  node_modules/
+  README.md  
   package.json
   public/
     index.html
