@@ -22,8 +22,9 @@ This project run under NodeJS. So if you want to run the project, you should hav
 Clone this repo and install the dependencies. 
 
 ```sh
-$ git clone
+$ git clone https://github.com/Azzuarezh/peentar.git
 $ cd peentar/
+$ npm install
 $ npm start
 ```
 
