@@ -64,5 +64,5 @@ $ npm install -g serve
 $ serve -s build
 ```
 to see the running port, you can see the logs in the console.
-Note that ***serve -s build***  is command to running static server and the app instance is ***"build"***
-if no build folder in Root directory, make sure you execute  ``` $ npm run build ``` in console and check whether it's success or not
+Note that ***serve -s build***  is command to running static server and the app instance is ***"build"***.
+If no build folder in Root directory, make sure you execute  ``` $ npm run build ``` in console and check whether it's success or not
