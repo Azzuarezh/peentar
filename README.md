@@ -55,10 +55,11 @@ peentar/
 
 ## Running in Build
 
-you can run the project with minified option.For environments using [Node](https://nodejs.org/), the easiest way to handle this would be to install [serve](https://github.com/zeit/serve) and let it handle the rest:
+you can run the project with minified option. For environments using [Node](https://nodejs.org/), the easiest way to handle this would be to install [serve](https://github.com/zeit/serve) and let it handle the rest:
 
 ```sh
 npm install -g serve
 serve -s build
 ```
+to see the running port, you can see the console in the command.
 Note that ***serve -s build***  is command to running static server and the app instance is ***"build"***
