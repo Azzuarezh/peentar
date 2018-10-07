@@ -59,8 +59,10 @@ peentar/
 you can run the project with minified option. For environments using [NodeJS](https://nodejs.org/), the easiest way to handle this would be to install [serve](https://github.com/zeit/serve) and let it handle the rest. I assumed that you are in Root directory, you can run the following command:
 
 ```sh
-npm install -g serve
-serve -s build
+$ npm run build
+$ npm install -g serve
+$ serve -s build
 ```
 to see the running port, you can see the logs in the console.
 Note that ***serve -s build***  is command to running static server and the app instance is ***"build"***
+if no build folder in Root directory, make sure you execute  ```sh $ npm run build ``` in console and check whether it's success or not
