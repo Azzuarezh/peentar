@@ -56,7 +56,7 @@ peentar/
 
 ## Running in Build
 
-you can run the project with minified option. For environments using [Node](https://nodejs.org/), the easiest way to handle this would be to install [serve](https://github.com/zeit/serve) and let it handle the rest:
+you can run the project with minified option. For environments using [Node](https://nodejs.org/), the easiest way to handle this would be to install [serve](https://github.com/zeit/serve) and let it handle the rest. I assumed that you are in Root directory:
 
 ```sh
 npm install -g serve
