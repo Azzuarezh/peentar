@@ -11,7 +11,7 @@ This only for ***PERSONAL PURPOSE***. If there are any vulnerables at dependenci
 
 ## Prerequisites
 
-This project run under NodeJS. So if you want to run the project, you should have Node js running in your machine
+This project run under [NodeJS](https://nodejs.org/en/download/). So if you want to run the project, you should have Node js running in your machine
 
 ## Installation
 
@@ -56,7 +56,7 @@ peentar/
 
 ## Running in Build
 
-you can run the project with minified option. For environments using [Node](https://nodejs.org/), the easiest way to handle this would be to install [serve](https://github.com/zeit/serve) and let it handle the rest. I assumed that you are in Root directory, you can run the following command:
+you can run the project with minified option. For environments using [NodeJS](https://nodejs.org/), the easiest way to handle this would be to install [serve](https://github.com/zeit/serve) and let it handle the rest. I assumed that you are in Root directory, you can run the following command:
 
 ```sh
 npm install -g serve
