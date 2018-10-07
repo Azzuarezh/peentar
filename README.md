@@ -7,7 +7,7 @@ This only for personal purpose. If there any vulnerable dependency, it's your ow
 - [Prerequisites](#Prerequisites)
 - [Installation](#Installation)
 - [Folder Structure](#folder-structure)
-- [Running in Build](#Running-in-Build)
+- [Running in Build](#running-in-build)
 
 ## Prerequisites
 
